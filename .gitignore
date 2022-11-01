@@ -1,0 +1,5 @@
+.idea/
+internal/hikvision_dll
+
+internal/hikvision/include/*.exe
+internal/hikvision/include/*.exe~
